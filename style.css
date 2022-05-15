@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: rgba(36, 57, 104, 255);
+}
+header{
+    /* top: 0px;
+    left: 0px; */
+    /* width: 1366px;
+    height: 80px; */
+    background-color: rgba(206, 5, 5, 255);
+    padding: 10px;
+    /* margin: 1px 2px 0px -1px;
+    padding: 2px 12px 21px 1px;  */
+    
+}
+#logo{
+    height: 47px;
+    margin: -1px 71px -2px 56px;
+    border-radius: 50%;
+    
+}
+button{
+    float: right;
+    width: 148px;
+    height: 31px;
+    background-color: red;
+    color: white;
+    padding: 0;
+    border: none;
+    background: none;
+}
+/* .login{
+    float: right;
+} */
+#login{
+    margin: 6px 323px 30px 46px;
+    position: relative;
+    left: 165px;
+}
+
+#createAccount{
+    margin: 8px -486px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+main{
+    padding: 60px;
+    background-color: rgb(240, 240, 240);
+}
+/* #breakfast{
+margin: 10px;
+} */
+aside{
+    margin: 10px 9px 30px 0px;
+    padding: 39px;
+    border: 1px solid black;
+    background-color: white;
+    width: 137px;
+}
+section{
+    float: left;
+    margin: -534px 4px -4px 279px;
+    width: 713px;
+}
+article{
+    background-color: white;
+    padding-bottom: 10px;
+}
+#art1{
+    margin: 38px;
+}
+#breakfast{
+    margin: -32px 10px 40px -1px;
+}
+.foodbanner{
+    /* width: 145px;
+    height: 141px;
+    margin: 13px 15px 18px 21px;
+    border-radius: 18%; */
+    width: 113px;
+    height: 108px;
+    margin: 13px 15px 18px 21px;
+    border-radius: 18%;
+}
+.rightcontent{
+    /* width: 476px;
+    height: 138px;
+    float: right;
+    margin: 19px 45px -35px -26px */
+    width: 363px;
+    height: 103px;
+    float: right;
+    margin: 20px 108px 0px 0px;
+}
+.itemprice{
+    margin: 10px 31px;
+}
+hr{
+    height: 1px;
+    background-color: rgb(228, 226, 226);
+    border: none;
+    margin: 0px 20px;
+}
